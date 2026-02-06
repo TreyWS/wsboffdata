@@ -1,0 +1,32 @@
+{
+{
+	"set": "EES",
+	"setName": "炎炎ノ消防隊",
+	"side": "blau",
+	"release": "01B",
+	"id": "003",
+	"name": "",
+	"jpName": "灰焔騎士団団長 象 日下部",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [SOUL],
+	"ability": [
+		"自動能力CXコンボ あなたのCX置場に「“斬リ離シタ宇宙”」が置かれた時、前列にこのカードがいて、他のあなたの《白装束》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分のクロックの上から1枚までを、ストック置場に置く。』『［ストック②］ あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から2枚までを、控え室に置く。』
+自動能力 このカードが舞台から控え室に置かれた時、あなたはこのカードを手札に戻してよい。そうしたら、あなたは自分の控え室の《白装束》のキャラを1枚まで選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"炎炎",
+	],
+	"version": "3",
+	"cardcode": "EES/01B-003",
+	"imageURL": "https://ws-blau.com/wordpress/wp-content/images/cardlist/EES/01B/EES_01B-003.png",
+	"tags": null
+}
