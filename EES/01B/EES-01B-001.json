@@ -1,0 +1,31 @@
+{
+	"set": "EES",
+	"setName": "炎炎ノ消防隊",
+	"side": "blau",
+	"release": "01B",
+	"id": "01",
+	"name": "",
+	"jpName": "煙に消える謎の男 ジョーカー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"永続能力 あなたのキャラすべてが《炎炎》なら、このカードのパワーを＋2500し、このカードは次の能力を得る。『自動能力［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』
+自動能力 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"炎炎",
+	],
+	"version": "3",
+	"cardcode": "EES/01B-001",
+	"imageURL": "https://ws-blau.com/wordpress/wp-content/images/cardlist/EES/01B/EES_01B-001.png",
+	"tags": null
+}
