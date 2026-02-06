@@ -1,0 +1,32 @@
+{
+{
+	"set": "EES",
+	"setName": "炎炎ノ消防隊",
+	"side": "blau",
+	"release": "01B",
+	"id": "002",
+	"name": "",
+	"jpName": "二柱目 ハウメア",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [SOUL],
+	"ability": [
+		"永続能力 あなたのターン中、他のあなたの《白装束》のキャラすべてに、パワーを＋2000。
+起動能力［手札の「二柱目 ハウメア」を1枚控え室に置く］［このカードをレストする］ あなたは自分の控え室の《白装束》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"炎炎",
+	],
+	"version": "3",
+	"cardcode": "EES/01B-002",
+	"imageURL": "https://ws-blau.com/wordpress/wp-content/images/cardlist/EES/01B/EES_01B-002.png",
+	"tags": null
+}
