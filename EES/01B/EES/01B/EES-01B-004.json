@@ -1,0 +1,32 @@
+{
+	"set": "EES",
+	"setName": "炎炎ノ消防隊",
+	"side": "blau",
+	"release": "01B",
+	"id": "004",
+	"name": "",
+	"jpName": "柱を守る一本の矢 アロー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [SOUL],
+	"ability": [
+		"永続能力 あなたのターン中、他のあなたの「伝導者の加護 象 日下部」すべてに、パワーを＋4000し、ソウルを＋1。
+自動能力［ストック①］［手札を1枚控え室に置く］ あなたのCXフェイズの始めに、他のあなたの「灰焔騎士団団長 象 日下部」がいて、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"炎炎",
+		"白装束"
+	],
+	"version": "3",
+	"cardcode": "EES/01B-004",
+	"imageURL": "https://ws-blau.com/wordpress/wp-content/images/cardlist/EES/01B/EES_01B-004.png",
+	"tags": null
+}
